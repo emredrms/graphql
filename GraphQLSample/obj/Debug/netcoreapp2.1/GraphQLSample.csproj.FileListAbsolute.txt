@@ -1,0 +1,14 @@
+D:\Project\Exercises\GraphQL\GraphQLSample\GraphQLSample\bin\Debug\netcoreapp2.1\GraphQLSample.deps.json
+D:\Project\Exercises\GraphQL\GraphQLSample\GraphQLSample\bin\Debug\netcoreapp2.1\GraphQLSample.runtimeconfig.json
+D:\Project\Exercises\GraphQL\GraphQLSample\GraphQLSample\bin\Debug\netcoreapp2.1\GraphQLSample.runtimeconfig.dev.json
+D:\Project\Exercises\GraphQL\GraphQLSample\GraphQLSample\bin\Debug\netcoreapp2.1\GraphQLSample.dll
+D:\Project\Exercises\GraphQL\GraphQLSample\GraphQLSample\bin\Debug\netcoreapp2.1\GraphQLSample.pdb
+D:\Project\Exercises\GraphQL\GraphQLSample\GraphQLSample\obj\Debug\netcoreapp2.1\GraphQLSample.csproj.CoreCompileInputs.cache
+D:\Project\Exercises\GraphQL\GraphQLSample\GraphQLSample\obj\Debug\netcoreapp2.1\GraphQLSample.RazorAssemblyInfo.cache
+D:\Project\Exercises\GraphQL\GraphQLSample\GraphQLSample\obj\Debug\netcoreapp2.1\GraphQLSample.RazorAssemblyInfo.cs
+D:\Project\Exercises\GraphQL\GraphQLSample\GraphQLSample\obj\Debug\netcoreapp2.1\GraphQLSample.AssemblyInfoInputs.cache
+D:\Project\Exercises\GraphQL\GraphQLSample\GraphQLSample\obj\Debug\netcoreapp2.1\GraphQLSample.AssemblyInfo.cs
+D:\Project\Exercises\GraphQL\GraphQLSample\GraphQLSample\obj\Debug\netcoreapp2.1\GraphQLSample.RazorTargetAssemblyInfo.cache
+D:\Project\Exercises\GraphQL\GraphQLSample\GraphQLSample\obj\Debug\netcoreapp2.1\GraphQLSample.dll
+D:\Project\Exercises\GraphQL\GraphQLSample\GraphQLSample\obj\Debug\netcoreapp2.1\GraphQLSample.pdb
+D:\Project\Exercises\GraphQL\GraphQLSample\GraphQLSample\obj\Debug\netcoreapp2.1\GraphQLSample.csprojAssemblyReference.cache
